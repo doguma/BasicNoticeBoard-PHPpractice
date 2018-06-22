@@ -1,6 +1,5 @@
 # basic-notice-board
-add/edit/delete posts with several additional attributes of a notice board.
-
+add/edit/delete posts with additional functions as a notice board.
 
 used html/css with boostrap styles (+jquery)
 database connected by php & mysql - Bitnami Wordpress Stack
