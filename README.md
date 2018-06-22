@@ -18,11 +18,11 @@ database connected by php & mysql - Bitnami Wordpress Stack
 ![Optional Text](../master/screenshots/dashboard_numOfPost15.png)
 
 
-## write new post
+## write a new post
 ![Optional Text](../master/screenshots/dashboard_write_formValidate.png)
-- form validation: required
+- form validation used 
 
-## post detail
+## post detail page
 ![Optional Text](../master/screenshots/dashboard_post_detail.png)
 - delete, edit, archive function included
 
